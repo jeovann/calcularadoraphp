@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<title>CALCULADORA2.0</title>
+<title>CALCULADORA2.1</title>
 </HEAD>
 <BODY>
 <form method="post" action="calcular.php">
